@@ -11,6 +11,7 @@ group :development do
   gem 'sqlite3'
 end
 
+gem 'devise', '~> 3.4.0'
 gem 'simple_form', '~> 3.2'
 gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'sass-rails', '~> 5.0'
