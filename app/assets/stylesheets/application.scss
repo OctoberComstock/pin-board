@@ -10,7 +10,7 @@
  * defined in the other CSS/SCSS files in this directory. It is generally better to create a new
  * file per style scope.
  *
- *= require 'masonry/transitions' 
+ *= require 'masonry/transitions'
  */
  @import "bootstrap-sprockets";
  @import "bootstrap";
@@ -29,9 +29,10 @@ nav {
 		a {
 			color: #BD1E23;
 			font-weight: bold;
-			&:hover {
-				text-decoration: none;
-			}
+      text-decoration: none;
+			// &:hover {
+			// 	text-decoration: none;
+			// }
 		}
 	}
 }
@@ -55,6 +56,7 @@ nav {
 	  	padding: 25px 10px;
 	  	a {
 				color: #474747;
+        text-decoration: none;
 	  	}
 	  }
 	  .user {
