@@ -1,6 +1,6 @@
 This is a Pinterest clone!
 
-Functionality: likes, uploading comments, pins, editing pins, users!
+Functionality: likes, uploading images, pins, editing pins, users!
 
 What's the Tech?
 
