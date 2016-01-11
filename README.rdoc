@@ -1,28 +1,22 @@
-== README
+This is a Pinterest clone!
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Functionality:Including likes, uploading comments, pins, editing pins, users!
 
-Things you may want to cover:
+What's the Tech?
 
-* Ruby version
+Rails 4.2
+Ruby 2.2.1p85
+SQL3
+Postgres
 
-* System dependencies
+Notable Gems:
+'devise', '~> 3.4.0'
+'masonry-rails', '~> 0.2.4'
+'acts_as_votable', '~> 0.10.0'
+'paperclip', '~> 4.3', '>= 4.3.2'
+'simple_form', '~> 3.2'
+'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+'haml', '~> 4.0', '>= 4.0.7'
+'jquery-rails'
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Heroku Domain Name: pinzyboard.herokuapp.com
