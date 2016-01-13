@@ -17,3 +17,11 @@
 /tmp
 config/.secrets.yml
 secrets.yml
+
+# Ignore Spring Directory
+/spring/
+# Ignore application configuration
+/config/application.yml
+
+# CarrierWave image
+public/uploads
